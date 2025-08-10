@@ -51,14 +51,7 @@ This project was developed in a notebook environment like Google Colab. The code
     git clone [https://github.com/YourUsername/DeepDTI-Affinity.git](https://github.com/YourUsername/DeepDTI-Affinity.git)
     cd DeepDTI-Affinity
     ```
-
-2.  **Install dependencies:**
-    It is recommended to set up a virtual environment.
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the Notebook:**
+2.  **Run the Notebook:**
     Open the `davis4.ipynb` notebook and execute the cells in order. The notebook is structured to cover the entire pipeline from data download to final model training and evaluation.
 
 ---
