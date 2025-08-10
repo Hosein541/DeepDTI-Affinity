@@ -53,7 +53,7 @@ This project was developed in a notebook environment like Google Colab. The code
     ```
 2.  **Run the Notebook:**
     Open the `DeepDTI-Affinity.ipynb` notebook and execute the cells in order. The notebook is structured to cover the entire pipeline from data download to final model training and evaluation.
-    ```
+   
 ---
 
 ## Key Dependencies
