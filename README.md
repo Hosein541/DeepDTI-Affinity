@@ -44,7 +44,16 @@ This project followed an iterative and data-centric workflow to tackle the DTI p
 
 ## How to Run
 
-This project was developed in a notebook environment like Google Colab. The code is structured in a way that reflects the iterative development process.
+This project was developed in a notebook environment like Google Colab.
+
+### 1. Download the Dataset
+The direct download link for the Davis dataset expires periodically. Therefore, you need to get the latest link from the source website.
+
+1.  **Go to the dataset source page:** [Davis-KIBA](https://www.kaggle.com/datasets/christang0002/davis-and-kiba?resource=download&select=davis.txt)
+2.  In the **"Benchmark datasets"** section, find the **"Davis"** dataset.
+3.  **Right-click** on the download link (e.g., `davis.rar` or `davis.tar.gz`).
+4.  Select **"Copy Link Address"** from the context menu.
+5.  **Pas
 
 1.  **Clone the repository:**
     ```bash
