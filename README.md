@@ -48,11 +48,11 @@ This project was developed in a notebook environment like Google Colab. The code
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/DeepDTI-Affinity.git](https://github.com/YourUsername/DeepDTI-Affinity.git)
+    git clone https://github.com/Hosein541/DeepDTI-Affinity.git)
     cd DeepDTI-Affinity
     ```
 2.  **Run the Notebook:**
-    Open the `davis4.ipynb` notebook and execute the cells in order. The notebook is structured to cover the entire pipeline from data download to final model training and evaluation.
+    Open the `DeepDTI-Affinity.ipynb` notebook and execute the cells in order. The notebook is structured to cover the entire pipeline from data download to final model training and evaluation.
     ```
 ---
 
