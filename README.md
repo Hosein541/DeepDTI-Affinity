@@ -53,7 +53,7 @@ This project was developed in a notebook environment like Google Colab. The code
     ```
 2.  **Run the Notebook:**
     Open the `davis4.ipynb` notebook and execute the cells in order. The notebook is structured to cover the entire pipeline from data download to final model training and evaluation.
-
+    ```
 ---
 
 ## Key Dependencies
@@ -76,6 +76,14 @@ As identified in the final analysis, the primary limitation of this task is the 
 * **Advanced Loss Functions:** Implement custom, dynamic loss functions that are more robust to imbalanced regression.
 * **Alternative Datasets:** Test the model's generalization capabilities on other DTI datasets like KIBA.
 * **Transformer-based Encoders:** Replace the 1D CNN for protein sequences with a more powerful pre-trained Transformer model like ESM-2 to potentially capture long-range dependencies more effectively.
+
+  
+## Contact
+* **Author:** Hosein Mohammadi
+* **Date:** July 2024
+* **Contact:** [huseinmohammadi83@gmail.com](mailto:huseinmohammadi83@gmail.com)
+* **LinkedIn:** [Hosein Mohammadi](https://www.linkedin.com/in/hosein-mohammadi-979b8a2b2/) 
+
 
 ---
 
